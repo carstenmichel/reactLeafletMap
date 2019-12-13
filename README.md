@@ -7,6 +7,3 @@ a React.js sample that will display a leaflet map
 yarn install
 yarn start
 ```
-
-Shows a screenshot like this:
-![Screenshot](images/screenshot.png "Screenshot")
